@@ -1,1 +1,2 @@
 # snbank
+This program is a banking system which allows only staff to login. After thes staff has successfully logged in, the program then gives the opportunity to create accounts and check details. If the staff chooses to create a new bank account, they will need to provide some information requested by the program after which an account number will be generated for the new account. If the user wants to check account details, they will need to provide the account number of the account they wish to check before they can view the details.
